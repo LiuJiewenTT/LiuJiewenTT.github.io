@@ -17,11 +17,15 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+  - nested 1
+  - nested 2
 
 1. Numbered
 2. List
+   1. Nested 1
+   2. Nested 2
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` and ==highlight== text
 
 [Link](url) and ![Image](src)
 ```
