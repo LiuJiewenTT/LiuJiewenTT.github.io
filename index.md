@@ -19,10 +19,10 @@ Well, I'm recently learning about protocols concerning open source. I would publ
 
 ### mcmod
 
-It's a software help to manage Minecraft mods. 
+It's a software help to manage Minecraft mods. <br>
 Apache License, 2.0.
 
-**Available!** Click [here to download][https://github.com/LiuJiewenTT/mcmod/releases/download/v1.0.0/mcmod_v1.0_release.zip] version 1.0!
+**Available!** Click [here to download](https://github.com/LiuJiewenTT/mcmod/releases/download/v1.0.0/mcmod_v1.0_release.zip) version 1.0!
 
 ### MCVINE
 
@@ -67,11 +67,10 @@ If you pay for some product and its service, you will get the support service fo
 Developing products cost resources, paying is a normal means of exchanging. Suitable fee is beneficial for further development. I will be very grateful if you acknowledge me and make a donation!
 
 <hr>
-
-GitHub Username: LiuJiewenTT
-Contact Me at: liuljwtt@foxmail.com
-Website *[This](https://liujiewentt.github.io)*: liujiewentt.github.io
-Current: website tv1
+GitHub Username: LiuJiewenTT<br>
+Contact Me at: liuljwtt@foxmail.com<br>
+Website *[This](https://liujiewentt.github.io)*: liujiewentt.github.io<br>
+Current: website tv1<br>
 
 
 
