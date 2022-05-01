@@ -1,9 +1,9 @@
 阅读选项：
 
-- [png][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion.png]
-- [PDF][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.pdf]
-- [HTML][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.html]
-- [Markdown][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.md]
+- [png](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion.png)
+- [PDF](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.pdf)
+- [HTML](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.html)
+- [Markdown](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.md)
 
 # 开源与收费
 

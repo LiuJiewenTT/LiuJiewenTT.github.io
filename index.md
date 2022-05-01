@@ -13,7 +13,7 @@ Well, I'm recently learning about protocols concerning open source. I would publ
 
 ### 开源与收费
 
-[*Available Now!*][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.html]
+[*Available Now!*](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.html)
 
 ## Software
 
@@ -70,7 +70,11 @@ Developing products cost resources, paying is a normal means of exchanging. Suit
 GitHub Username: LiuJiewenTT<br>
 Contact Me at: liuljwtt@foxmail.com<br>
 Website *[This](https://liujiewentt.github.io)*: liujiewentt.github.io<br>
-Current: website tv1<br>
+Current: website tv2<br>
+Time: 2022-5-1<br>
+
+
+
 
 
 
