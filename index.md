@@ -13,7 +13,7 @@ Well, I'm recently learning about protocols concerning open source. I would publ
 
 ### 开源与收费
 
-*Coming soon...*
+[*Available Now!*][https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.html]
 
 ## Software
 
