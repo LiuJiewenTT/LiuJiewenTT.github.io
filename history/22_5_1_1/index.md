@@ -2,22 +2,20 @@
 
 ## Website
 
-Hello, my friends! I've recently unlocked this interesting thing. I'm going to post some blogs here and release my softwares here. 
+Hello, my friends! I've recently enabled this interesting thing. I'm going to post some blogs here and release my software here. 
 It's pretty nice to meet you here. Best wishes in the days to come.
 
 *(I shall save history copies in some directory.)*
 
 ## Blogs
 
+Well, I'm recently learning about protocols concerning open source. I would publish my thoughts  after I'm ok with CC. Here I shall declare the upcoming blog's title.
+
 ### 开源与收费
-
-**Topic**: The relationship of open-source and charging-fee.
-
-> ps. It's about my personal thinking of the topic. Hence, the passage is given in Chinese language. You may need translation tools.
 
 [*Available Now!*](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.md)
 
-## Softwares
+## Software
 
 ### mcmod
 
@@ -30,23 +28,21 @@ Apache License, 2.0.
 
 The successor of mcmod project. It can inject shaders, configs and so on. It's more powerful than mcmod and it will give you better MCNE experience in the real meaning. **BUT, it would not be free to get one.** (Together with support service.)
 
- Version 1.1 to 1.4 are now on sale! Go to homepage of [AlfredTT, afdian.net](https://afdian.net/@AlfredTT) to use bank card or WeChat Pay or Go email me and pay with **E-CNY**.
+*Coming soon... Version 1.1 to 1.4 have been developed already. They will be available as soon as the payment is ready and the apache licenses are added.*
 
-*Contact me at liuljwtt@foxmail.com*
+*You may get a copy of v1.2 immediately if you can use E-CNY to pay. Contact me at liuljwtt@foxmail.com*
 
 ### ThreadKiller
 
 Ban the threads you don't want. You can use this to make simple management or joke with your friends. (e.g., try adding explorer.exe to the target list :smile:)
 
-The base is `BlackCurtain`, whose work is now opened and will have further development of UI like `ThreadKiller`.
+The base part is planned to be open sourced. But there are experience-improved plans as well. (Together with support service.)
 
 *Coming soon...*
 
 ### BlackCurtain
 
-Do you have times when you want some .exe or .bat running without window? Here comes the assisting tool! You can get one if you make a small donation. (Free support service. Although it should not have any problem.) 
-
-The work is also an open-source project(*MIT license*), you may search in Github and develop a version of yours. **It's free for individual use, charged for commercial uses.** Contact me at liuljwtt@foxmail.com
+Do you have times when you want some .exe or .bat running without window? Here comes the assisting tool! You can get one if you make a small donation. (Free support service. Although it should not have any problem.)
 
 ### More tools
 
@@ -70,13 +66,15 @@ If you pay for some product and its service, you will get the support service fo
 
 Developing products cost resources, paying is a normal means of exchanging. Suitable fee is beneficial for further development. I will be very grateful if you acknowledge me and make a donation!
 
-
-
 <hr>
 GitHub Username: LiuJiewenTT<br>
 Contact Me at: liuljwtt@foxmail.com<br>
 Website *[This](https://liujiewentt.github.io)*: liujiewentt.github.io<br>
-Website, `AlfredTT` at *afdian.net*: [爱发电](https://afdian.net/@AlfredTT)<br>
-Current: website tv3<br>
-Time: 2022-5-15<br>
+Current: website tv2<br>
+Time: 2022-5-1<br>
+
+
+
+
+
 
