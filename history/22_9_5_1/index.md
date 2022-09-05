@@ -1,7 +1,6 @@
 # Recent
 
 In the last few month, I made multiple tries to build a python renderer. There are there incomplete projects concerning this topic. Today(2022.9.5) I made a small classic game and sadly to find: the speeding is really disappointing. I'm not sure if it's because indexing, you may take a glance from my project: `pinball_game`. I would be very grateful if somebody help me!!!!!
-(Referring to situation of considering alpha tunnel, transparency. `lapTIMG()`is used.)
 
 ## Website
 
