@@ -1,7 +1,10 @@
-theme: jekyll-theme-hacker
-title: TT's Space
-description: Here will be some of my blogs and software releases. <br>You can find me at https://afdian.net/@AlfredTT as well.
+remote_theme: pages-themes/leap-day@v0.2.0
+title: Space of TT
+description: It's my personal homepage. Here will be some of my blogs and software releases. 
 defaults:
   -
     values:
       author: "Jiewen Liu/LiuJiewenTT/TT/TTPeter (Default)"
+
+plugins:
+- jekyll-remote-theme
