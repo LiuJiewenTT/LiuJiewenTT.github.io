@@ -1,168 +1,102 @@
+# Home
+
+This is the personal home page of LiuJiewenTT.
+
+这里是刘杰文的个人主页。
+
+## 前言 {#preface}
+
+朋友们，很高兴在这里相遇！我是刘杰文，来自中国，目前还是一名学生。我来到 Github 已经至少有6年了，近期开发水平正在快速提高，也开始尝试将更多的想法付诸实践。在这里，在这个自由社区，我希望能与大家共建一个更加友好的体验和一个更加美好的未来。如果你有什么有趣的想法，欢迎来和我分享。
+
+<link rel="stylesheet" href="css/used_tech.css">
+
+## 技术栈 {#technoloy_stack}
+
+|          Tech.          |                            About                             |
+| :---------------------: | :----------------------------------------------------------: |
+|          C/C++          | 非常熟悉，曾负责一个商业项目的开发，还参与过另外一个商业项目的开发。事实上，这是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。本人能熟练使用面向对象的开发和面向过程的开发。 |
+|         Python          | 非常熟悉，我最近的大部分项目都是使用Python进行开发，因为它可以大大节省开发时间，提高程序员的效率，非常适合做最小可信性验证等目标。个人最偏爱这门语言，熟练度不低于C/C++，也更倾向于使用Python的工作。 |
+|          Linux          | 非常熟悉，有过一段较长的使用经历，期间除了日常操作，还在Linux上进行了开发、编译、调试等工作。个人接触最多的Linux发行版是商业服务器常见的CentOS7。 |
+|          Batch          | 此处指Windows批处理命令。很熟悉，能良好运用，本人已有多个项目使用纯Batch开发，并已在此站公开。在我看来，它具有高开放度、高兼容性和极其便利的特点，非常适合简单的目标。 |
+|      安卓应用开发       | 熟悉。成功开发过几个个人应用，例如：中秋博饼APP（库：ee308fz_lab2）。 |
+| 嵌入式应用开发（C语言） |        非常熟悉。这也是本人在大学期间学习的课程之一。        |
+|          MySQL          |            熟悉程度不错，能胜任大部分的应用场景。            |
+|        网络编程         | 熟悉程度不错，能胜任大部分的应用场景。有较长一段时间的商业项目开发经历。 |
+|    Visual Basic 6.0     | 熟悉程度不错，能胜任大部分的应用场景。中学时期便使用该语言开发过几个小工具。 |
+|          HTML           | 熟悉程度不错，在阅读程序上没有障碍，能够进行开发、能够进行修改，有结合Jekyll和Liquid使用的经历。 |
+|        CSS/SCSS         | 熟悉程度不错，在阅读程序上没有障碍，能够进行开发、能够进行修改。 |
+|          Java           | 熟悉程度一般，在阅读程序上没有障碍。有过编辑class字节码文件的经历（修改一个《Minecraft Java Edition》的模组），能进行一定程度的破解。 |
+|           C#            | 熟悉程度一般，在阅读程序上没有障碍。有尝试一个项目的后续开发的经历。 |
+|           JS            |             熟悉程度一般，在阅读程序上没有障碍。             |
+|           UWP           |        有学习过UWP应用的开发，基本了解如何进行开发。         |
+|           PHP           |             熟悉程度一般，在阅读程序上没有障碍。             |
+
 ---
-title: Space of TT
----
 
-# About Me
+其他技能：
 
-Hey, guys! I'm TT. I use many names: *LiuJiewenTT*, *AlfredTT*, *AlfredTTLJW* or *TTPeter*, and shorted as *TT*.
+|         Skill          |                            About                             |
+| :--------------------: | :----------------------------------------------------------: |
+|          SSH           | 非常熟悉SSH的使用，有大量实践经验，会使用SFTP，有使用libssh2进行C语言开发的经历，其中包括开发使用SFTP的功能。 |
+|         虚拟机         | 非常熟悉虚拟机的使用和管理，长期使用虚拟机。熟悉Hyper-V和VMware的使用和管理。 |
+|        Markdown        |         熟练使用此标记语言，常使用它编写博客和网页。         |
+|     Jekyll+Liquid      |             熟练程度不错，能够应对大部分的情况。             |
+|          Git           |                           熟练使用                           |
+|   Visual Studio Code   |   非常熟练使用此工具，很大一部分开发工作都使用此工具进行。   |
+|   JetBrains Pycharm    |   非常熟练使用此工具，很大一部分开发工作都使用此工具进行。   |
+|     Android Studio     |   非常熟练使用此工具，很大一部分开发工作都使用此工具进行。   |
+|        Windows         |     这是本人日常使用的系统，对其结构有一定的了解和研究。     |
+|         Office         |               本人能够熟练运用这个的办公技能。               |
+|         netsh          |            熟悉程度不错，能胜任大部分的应用场景。            |
+|      使用GDB调试       |             在使用GDB调试C/C++语言的程序有经验。             |
+|       cURL/wget        |         基本技能。有使用libcurl的C语言程序开发经验、         |
+|     PS (Photoshop)     |                           能够运用                           |
+|        Adobe XD        |                           能够运用                           |
+| 文案编写、视频脚本编写 |                    学习过、运用过，较熟练                    |
 
-I like to code something or anything else as long as it's about creating something great! I play *Minecraft*, *Left 4 Dead 2* and so on and I made some programs to help me play with those. I like the free ideas of free software and I shared my viewpoint on it. I also tried to develop a variant of MIT, a Open Source License. But, don't be serious. In shorts, I do everything that seems to make a better future.
 
-The coding languages that I'm skilled at: *c/c++*, *python*, *batch*. I can do with these as well: *Java*, *HTML*, *PHP*. I have some knowledge of Android Application development and have already released some of my work.
 
-I note down what I saw in the life and technology field and share some in my online library: [MyDoc_A](https://liujiewentt.github.io/MyDoc_A/) .
+## 个人成果 {#Work_result}
 
-To contact me, you may email to <liuljwtt@foxmail.com>. Other personal homepages: [on Bilibili.com](https://space.bilibili.com/504959893) and [on afadian.net](https://afdian.net/@AlfredTT).
+以下项目不限状态，可能是已完成或是正处于开发的任意阶段。
 
-## Recent
+### General Application
 
-1. [**Newest**]*Bobing* game is formally released.
-2. Keeps building personal public library.
-3. Game assistant for *Left 4 Lead 2* is ready.
-4. The renderer met a performance problem. (*pinball_game*)
+IPCode
+: Repository: *IPCode*。这是一个大的项目，一个将由多个子项目组成的集合。这个项目旨在推进IPv6的表达方式，力图打通全场景、形成最便捷的地址信息传递。<span class="used_tech">使用到的技术: *Python*, *cURL*。</span>
 
-## My Projects
+leap-day
+: Repository: *leap-day*。一个基于GitHub给出的leap-day的定制版主题，修复和添加了一些特性。其中包括对移动设备的更好的支持、对mermaid的完美支持……<span class="used_tech">使用到的技术: *CSS*, *SCSS*, *HTML*, *Liquid*。</span>
 
-### Games
+MergePDF
+: Repository: *MergePDF*。这是一个对已有库的封装的脚本，专注于PDF合并，提供一些操作选项和优化操作的可能。（Windows可执行文件格式的发行版集成Python运行环境。）<span class="used_tech">使用到的技术: *Python*。</span>
 
-Until now, most of them are uncompleted because I tried to develop my own render engine. They are in *python* and uses *OpenCV* library. Maybe it's a mistake. 
+### 安卓APP
 
-Some projects, *tankgame*, *tankgame_lite1* and *pinball_game*, are the efforts I made. Another larger project relevant is *新墨(XinMo)*, but that is more about drawing not gaming. If you'd like to help, please go to *pinball_game*. I'd really appreciate you!
+中秋博饼APP
+: Repository: *ee308fz_lab2*。一个离线的多人博饼游戏，另加入了一点特殊设定（即彩蛋）。<span class="used_tech">使用到的技术: *Java*, *安卓应用开发*。</span>
 
-#### Bobing Game
+### Windows应用和工具
 
-**Environment**: Android System
-**Highlights**: Provide some interesting customization options.
-Comment: It's an assignment of two people.
-Project link: <https://github.com/LiuJiewenTT/ee308fz_lab2>
+IconFold
+: Repository: *IconFold*。使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 *.ico* 文件。<span class="used_tech">使用到的技术: *batch*。</span>
 
-It features on a traditional Chinese game, *Bobing*. 
+TraceOpenedFiles
+: Repository: *TraceOpenedFiles*。使用此工具可以方便地监视一个程序使用的文件的情况。此工具拥有额外的特性，支持多种监视对象获取方式，支持从程序一启动就开始监视而无需手动传入信息。<span class="used_tech">使用到的技术: *Python*。</span>
 
-**Available!** Click [here](https://github.com/LiuJiewenTT/ee308fz_lab2/releases) to download *released versions*.
+ThreadKiller
+: Repository: *ThreadKiller*。这是一套脚本组成的工具，专门用于监视并结束指定进程以达成拒绝运行的目的。（部分情况可能需要适当提权运行。）自编完整的安装、重置和卸载逻辑，完整且简便的设置/管理体验。<span class="used_tech">使用到的技术: *batch*。</span>
 
-### Game Surroundings
+### 游戏相关
 
-List some:
+MCMDC
+: Repository: *MCModDependencyCheck*。使用此工具可以完成对《我的世界》Java版（Forge端）的模组依赖检查而无需启动游戏，全流程快速、高效、简便，已适配大部分情况。<span class="used_tech">使用到的技术: *Python*。</span>
 
-- BirdMC
-- mcmod
-- MCVINE
-- L4D2 OfflineAssistant
+BirdMC
+: Repository: *BirdMC*。专门用于裁剪图片的工具，主要应用于《我的世界》地图画制作。只要指定图片，就可以使用鼠标选择要批量裁剪出的块图，随后使用其他转换工具进行地图画的后续制作。<span class="used_tech">使用到的技术: *Python*。</span>
 
-I also made a [datapack](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack) for combination of: *Minecraft* + *Forge* + *Create* + *Ex Nihilo: Sequentia* + *Farmer's Delight* + *Pigsteel* and so on.
+L4D2_OfflineAssistant
+: Repository: *L4D2_OfflineAssistant*。有时从Steam创意工坊下载的模组在启动时会被清除，这是由于网络问题导致未能获取到资源订阅列表。此外有一个副作用：如果你有大量的模组，那么你的硬盘将不得不遭受大量写数据的苦难，这会浪费时间、寿命和性能。为了避免此事，一个常见的作法是将下载到的模组移到上一层储存，但是这样除了是层级看着更加杂乱以及不好管理，还使得其在游戏内无法正确链接资源的描述等信息，而这有时会导致乱码和图片缺失，不利于游戏内管理（即启用或禁用）资源。为了取两者之长，我开发了这个工具，在启动游戏前确保它正在运行，或使用它进行游戏启动，可以保证上述问题不再出现，真是完美的解决方案！<span class="used_tech">使用到的技术: *batch*。</span>
 
-#### BirdMC
-
-**Environment**: python 3.7 + opencv-python
-**Highlights**: Single file program; Provide options;
-Project Link: <https://github.com/LiuJiewenTT/BirdMC_original>
-
-This program allows you to select patches to be divided and then send to make blueprints for pictures on *Minecraft* maps.
-
-Some **options** are provided for customization.
-
-#### mcmod&MCVINE
-
-**Environment**: batch(cmd)
-**Highlights**: Addon mechanism; Multiple approaches/implementations; Support multiple configurations;
-
-They can insert things into the targeted locations. *MCVINE* is the successor of *mcmod*. They help to solve the problem of having difficulties and inconvenience when playing Minecraft Java Edition, Chinese version(Netease agented). **Mods, resourcepacks, shaderpacks, configs, etc.** are supported. 
-
-As the room id is not fixed, configs may need special adapters depending on whether map-related. Adapters can be called through **addon mechanism**. 
-
-> Yes, lots of my work support addon mechanism and holding a good flexibility even goes to debugging and maintaining.
-
-#### L4D2_OfflineAssistant
-
-**Environment**: batch(cmd)
-**Highlights**: Support multiple configurations;
-Project Link: <https://github.com/LiuJiewenTT/L4D2_OfflineAssistant>
-
-Similar propose to the *mcmod*. Assure MODs would not disappear unexpectedly. Support multiple configurations and easy switch. 
-
-> **File from local while description from the internet.**
-
-### Software
-
-List some:
-
-1. PortAPP
-2. Active Mode
-3. ThreadKiller
-4. BlackCurtain
-5. Computer Locker(Cl)
-
-#### PortAPP
-
-**Environment**: batch(cmd), vbs
-**Highlights**: Portable;
-Project Link: <https://github.com/LiuJiewenTT/PortAPP>
-
-Features:
-
-1. Use it along with a Service, **user accounts(Windows)** can be located at some location in outer disk/portable disk. (Need proper settings)
-
-2. With this, a portable disk can be used for different PCs and every PC won't access to wrong path of softwares installed in the disk! In other words, Apps are separated by the name of every PC.
-
-#### Active Mode
-
-**Environment**: batch(cmd)
-**Highlights**: Portable; Very small; Work with commandline; Agile Coding;
-
-It's a **Basic IDE in batch script**. It's a light-weighted IDE based on commandline. **It aims to let you do things in agile way without any thinking of those not important.** It's provided in two language versions: *C/C++*, *Java*.
-
-> I haven't setup the repository yet. You may get a copy from my Baidu Netdisk.
->
-> 链接：https://pan.baidu.com/s/1JmZ3ETe9n-Jv7CXOQCHIpQ?pwd=bfip 
-> 提取码：bfip
-
-#### ThreadKiller
-
-**Environment**: batch(cmd)
-**Highlights**: Invisible; Easy installation and flexible running options;
-**Other Projects Used**: [*BlackCurtain*](#BlackCurtain)
-Project Link: <https://github.com/TTStudio-of-TTPeter/ThreadKiller>
-
-Ban the threads you don't want. You can use this to make simple management or joke with your friends. (e.g., try adding explorer.exe to the target list :smile:)
-
-The base is `BlackCurtain`, whose work is now opened and will have further development of UI like `ThreadKiller`.
-
-**Available!** Click [here](https://github.com/TTStudio-of-TTPeter/ThreadKiller) to view the project. And there do has a `.exe` installer for Win platform!
-
-#### BlackCurtain
-
-**Environment**: batch(cmd), vbs
-Project Link: <https://github.com/LiuJiewenTT/BlackCurtain>
-
-Do you have times when you want some .exe or .bat running without window? Here comes the assisting tool! You can get one if you make a small donation. (Free support service. Although it should not have any problem.) 
-
-You may see it [here](https://github.com/LiuJiewenTT/BlackCurtain) and develop a version of yours.
-
-### Tricks
-
-- [ ] Render Engine(Python+OpenCV)
-
-- [x] Debug Mode in Codes for Developers(Python) [Link](https://github.com/LiuJiewenTT/ee308fz_lab1#debug-mode-in-codes-for-developers)
-  
-  > Debug mode can be enabled by parts.
-  
-- [x] Modular Command Mechanism(Python)
-
-  
-
-
-## My Blogs
-
-Some selected blogs.
-
-### 开源与收费
-
-**Topic**: The relationship of open source and charging.
-
-> ps. It's about my personal thinking of the topic. Hence, the passage is given in **Chinese** language. You may need translation tools.
-
-[*Available Now!*](https://github.com/LiuJiewenTT/LiuJiewenTT.github.io/tree/main/blogs/开源与收费_SharedVersion_Export/开源与收费_SharedVersion_Interact.md)
-
-### More
-
-Go to [*MyDoc_A*](https://liujiewentt.github.io/MyDoc_A/).
+MCVINE
+: Repository: *MCVINE*。曾经的专用工具，供小伙伴更好地游玩网易版《我的世界》（PC、Java Edition）。它最初名为 *mcmod*，只能添加自选模组。在进一步发展的过程中，为了避免混淆，改名为此，并逐渐加入了添加任意资源的能力。随着本人离开了网易版《我的世界》，也不再关注后续更新，此项目亦终止发展。<span class="used_tech">使用到的技术: *batch*。</span>
