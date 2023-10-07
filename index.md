@@ -16,9 +16,9 @@ This is the personal home page of LiuJiewenTT.
 
 |    Tech.     |                            About                             |
 | :----------: | :----------------------------------------------------------: |
-|    C/C++     | 非常熟悉，曾负责一个商业项目的开发，还参与过另外一个商业项目的开发。事实上，这是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。本人能熟练使用面向对象的开发和面向过程的开发。 |
-|    Python    | 非常熟悉，我最近的大部分项目都是使用Python进行开发，因为它可以大大节省开发时间，提高程序员的效率，非常适合做最小可信性验证等目标。个人最偏爱这门语言，熟练度不低于C/C++，也更倾向于使用Python的工作。 |
-|    Linux     | 非常熟悉，有过一段较长的使用经历，期间除了日常操作，还在Linux上进行了开发、编译、调试等工作。个人接触最多的Linux发行版是商业服务器常见的CentOS7。 |
+|    C/C++     | 非常熟悉，有两个商业项目的开发经历。事实上，这是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。本人能熟练使用面向对象的开发和面向过程的开发。 |
+|    Python    | 非常熟悉，我的大部分个人项目都是使用Python进行开发，因为它可以大大节省开发时间，提高程序员的效率，非常适合做最小可信性验证等目标。个人最偏爱这门语言，熟练度不低于C/C++，也更倾向于使用Python的工作。 |
+|    Linux     | 非常熟悉，有过一段较长的使用经历，能在Linux上进行开发、编译、调试等工作。个人接触最多的Linux发行版是商业服务器常见的CentOS7。 |
 |    Batch     | 此处指Windows批处理命令。很熟悉，能良好运用，本人已有多个项目使用纯Batch开发，并已在此站公开。在我看来，它具有高开放度、高兼容性和极其便利的特点，非常适合简单的目标。 |
 | 安卓应用开发 | 熟悉。成功开发过几个个人应用，例如：中秋博饼APP（库：ee308fz_lab2）。 |
 |    MySQL     |            熟悉程度不错，能胜任大部分的应用场景。            |
@@ -46,10 +46,10 @@ This is the personal home page of LiuJiewenTT.
 ### General Application
 
 IPCode
-: Repository: *[IPCode](https://github.com/LiuJiewenTT/IPCode)*。这是一个大的项目，一个将由多个子项目组成的集合。这个项目旨在推进IPv6的表达方式，力图打通全场景、形成最便捷的地址信息传递。<span class="used_tech">使用到的技术: *Python*。</span>
+: Repository: *[IPCode](https://github.com/LiuJiewenTT/IPCode)*。这是一个“大”的项目，一个将由多个子项目组成的集合。这个项目旨在推进IPv6的表达方式，力图打通全场景、形成最便捷的地址信息传递。目前这个项目处于早期开发阶段。<span class="used_tech">使用到的技术: *Python*。</span>
 
 leap-day
-: Repository: *[leap-day](https://github.com/LiuJiewenTT/leap-day)*。一个基于GitHub给出的leap-day的定制版主题，修复和添加了一些特性。其中包括对移动设备的更好的支持、对mermaid的完美支持……<span class="used_tech">使用到的技术: *CSS*, *SCSS*, *HTML*, *Liquid*。</span>
+: Repository: *[leap-day](https://github.com/LiuJiewenTT/leap-day)*。一个基于GitHub给出的leap-day的定制版主题，修复和添加了一些特性。其中包括对移动设备的更好的支持、对mermaid的完美支持……<span class="used_tech">使用到的技术: *CSS3*, *SCSS*, *HTML*, *Liquid*。</span>
 
 MergePDF
 : Repository: *[MergePDF](https://github.com/LiuJiewenTT/MergePDF)*。这是一个对已有库的封装的脚本，专注于PDF合并，提供一些操作选项和优化操作的可能。（Windows可执行文件格式的发行版集成Python运行环境。）<span class="used_tech">使用到的技术: *Python*。</span>
@@ -76,7 +76,7 @@ MCMDC
 : Repository: *[MCModDependencyCheck](https://github.com/LiuJiewenTT/MCModDependencyCheck)*。使用此工具可以完成对《我的世界》Java版（Forge端）的模组依赖检查而无需启动游戏，全流程快速、高效、简便，已适配大部分情况。<span class="used_tech">使用到的技术: *Python*。</span>
 
 BirdMC
-: Repository: *[BirdMC](https://github.com/LiuJiewenTT/BirdMC_original)*。专门用于裁剪图片的工具，主要应用于《我的世界》地图画制作。只要指定图片，就可以使用鼠标选择要批量裁剪出的块图，随后使用其他转换工具进行地图画的后续制作。<span class="used_tech">使用到的技术: *Python*。</span>
+: Repository: *[BirdMC](https://github.com/LiuJiewenTT/BirdMC_original)*。专门用于裁剪图片的工具，主要应用于《我的世界》地图画制作。只要指定图片，就可以使用鼠标选择要批量裁剪出的块图，随后使用其他转换工具进行地图画的后续制作。<span class="used_tech">使用到的技术: *Python*, *opecv-python*。</span>
 
 VPet Mod Sync
 : Repository: *[vpet_modsync](https://github.com/LiuJiewenTT/vpet_modsync)*。这是一个为 *VPet Simulator (Published on Steam)* （虚拟桌宠模拟器）定制的模组同步用途的模组。它使用Junction以免除手动复制或移动的操作来使软件在离线时也一定能加载到模组。从创意工坊订阅的资源不会被移动，因此“同步”指在本地范围内进行同步，不影响创意工坊更新资源，也不会有额外操作的需求。自2023年9月8日发布以来，模组得到了很好的反响，**订阅率超96% (1134/1179)**(数据截止至2023年9月14日)。<span class="used_tech">使用到的技术: *batch*。</span>
