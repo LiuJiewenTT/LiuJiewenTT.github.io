@@ -15,7 +15,7 @@ This is the personal home page of LiuJiewenTT.
   </a>
 </div>
 
-{% assign open_link = "<img src=\"res/external_link_icon_206067.svg\" alt=\"\" class=\"open_link\">" %}
+{% assign open_link = "<img src="res/external_link_icon_206067.svg" alt="" class="open_link">" %}
 
 ## 前言 {#preface}
 
