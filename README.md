@@ -15,13 +15,17 @@ This is the personal home page of LiuJiewenTT.
   </a>
 </div>
 
+<link rel="stylesheet" href="css/used_tech.css">
+
+<div id="hide_liquid_initializations" style="display:none;">
 {% capture open_link %}<img src="res/external_link_icon_206067.svg" alt="" class="open_link">{% endcapture %}
+</div>
+
 
 ## 前言 {#preface}
 
 距离我加入这里的那天已经过去7年了，在这些年里，我的开发水平不断提升着。我无法分出足够的时间和精力去用更新、更好的思路优化老项目，所以我总是尝试将其应用在我最新的项目中。这也使得，如果顺着一个个项目的创建时间看，看到的就是我的大半个技术水平进步的过程。
 
-<link rel="stylesheet" href="css/used_tech.css">
 
 ## 技能 {#skills}
 
