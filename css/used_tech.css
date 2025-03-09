@@ -21,3 +21,8 @@ body{
 .used_tech em {
 	color: darkorange;
 }
+
+.open_link {
+	aspect-ratio: 1;
+	height: 1em;
+}
