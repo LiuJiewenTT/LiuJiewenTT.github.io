@@ -17,7 +17,7 @@ This is the personal home page of LiuJiewenTT.
 
 <link rel="stylesheet" href="css/used_tech.css">
 
-{% include includes/general.liquid %}
+{% include general.liquid %}
 
 
 ## 前言 {#preface}
