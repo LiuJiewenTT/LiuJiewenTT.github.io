@@ -1,5 +1,5 @@
 remote_theme: pages-themes/leap-day@v0.2.0
-title: Space of TT
+title: TT的个人空间
 description: It's my personal homepage. Here will be some of my blogs and software releases. 
 defaults:
   -
@@ -7,4 +7,5 @@ defaults:
       author: "Jiewen Liu/LiuJiewenTT/TT/TTPeter (Default)"
 
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-redirect-from

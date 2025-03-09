@@ -2,11 +2,23 @@
 
 This is the personal home page of LiuJiewenTT.
 
-这里是刘杰文的个人主页。
+这里是刘杰文的个人主页。（待更新）
+
+![ghpvc](https://komarev.com/ghpvc/?username=LiuJiewenTT&label=Profile%20views%20since%202025-2-6)
+
+<div style="display:flex; align-items:center; justify-content:center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LiuJiewenTT&count_private=true&include_all_commits=true" alt="LiuJiewenTT's GitHub stats" style="height:10em;">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuJiewenTT&layout=compact&langs_count=8&size_weight=0.9&count_weight=0.1&exclude_repo=LiuJiewenTT.github.io,leap-day,WinPaletter,sportsmeeting,ee308fz_lab1,MyDoc_A" alt="Top Langs" style="height:10em;">
+  </a>
+</div>
+
 
 ## 前言 {#preface}
 
-朋友们，很高兴在这里相遇！我是刘杰文，来自中国，目前还是一名学生。我加入 Github 已经至少有6年了，近期开发水平正在快速提高，也开始尝试将更多的想法付诸实践。在这里，在这个自由社区，我希望能与大家共建一个更加友好、美好的的未来。如果你有什么有趣的想法，欢迎来和我分享。
+距离我加入这里已经有7年了，在这些年里，我的开发水平不断提升着。因为我无法分出足够的时间和精力去用更新、更好的思路优化老项目，所以我总是尝试将其应用在我最新的项目中。这也使得，如果顺着一个个项目的时间看，看到的就是我的大半个技术水平进步的过程。
 
 <link rel="stylesheet" href="css/used_tech.css">
 
@@ -39,7 +51,7 @@ This is the personal home page of LiuJiewenTT.
 
 ## 个人成果 {#Work_result}
 
-以下项目不限状态，可能是已完成或是正处于开发的任意阶段。
+以下项目不限状态，可能是已完成或是正处于开发的任意阶段。（2025备忘：内容有待更新。）
 
 ### 游戏相关
 
@@ -78,7 +90,7 @@ ThreadKiller
 ### General Application
 
 IPCode
-: Repository: *[IPCode](https://github.com/LiuJiewenTT/IPCode)*。这是一个“大”的项目，一个将由多个子项目组成的集合。这个项目旨在推进IPv6的表达方式，力图打通全场景、形成最便捷的地址信息传递。目前这个项目处于早期开发阶段。<span class="used_tech">使用到的技术: *Python*。</span>
+: Repository: *[IPCode](https://github.com/LiuJiewenTT/IPCode)*。这是一个设计目标为低耦合的项目，同项目可以独立生成不同的功能程序。这个项目意在探索更轻便的IPv6表现形式，有意向全平台拓展。目前这个项目处于早期开发阶段。<span class="used_tech">使用到的技术: *Python*。</span>
 
 leap-day
 : Repository: *[leap-day](https://github.com/LiuJiewenTT/leap-day)*。一个基于GitHub给出的leap-day的定制版主题，修复和添加了一些特性。其中包括对移动设备的更好的支持、对mermaid的完美支持……<span class="used_tech">使用到的技术: *CSS3*, *SCSS*, *HTML*, *Liquid*。</span>
