@@ -17,9 +17,7 @@ This is the personal home page of LiuJiewenTT.
 
 <link rel="stylesheet" href="css/used_tech.css">
 
-<div id="hide_liquid_initializations" style="display:none;">
-{% capture open_link %}<img src="res/external_link_icon_206067.svg" alt="" class="open_link">{% endcapture %}
-</div>
+{% include general.liquid %}
 
 
 ## 前言 {#preface}
