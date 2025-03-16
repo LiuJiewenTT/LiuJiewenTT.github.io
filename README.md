@@ -63,7 +63,7 @@ This is the personal home page of LiuJiewenTT.
       </dd>
       <dt><strong>CBJQ_SS StartWrapper<a href="https://github.com/LiuJiewenTT/CBJQ_SS_StartWrapper">{{open_link}}</a></strong></dt>
       <dd>
-        切服器的辅助启动程序，主要用于提权运行和引导`preference.json`的调用，附加观察启动器输出内容的功能。此程序已经成为切服器的重要组成部分。<span class="used_tech"><em>C</em></span>
+        切服器的辅助启动程序，主要用于提权运行和引导<code>preference.json</code>的调用，附加观察启动器输出内容的功能。此程序已经成为切服器的重要组成部分。<span class="used_tech"><em>C</em></span>
       </dd>
       <dt><strong>CBJQ_SS QuickStart<a href="https://github.com/LiuJiewenTT/CBJQ_SS.QS">{{open_link}}</a></strong></dt>
       <dd>
