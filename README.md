@@ -72,7 +72,7 @@ This is the personal home page of LiuJiewenTT.
     </dl>
   </details>
   <dl>
-    <dt>尘白启动器下载器<a href="https://github.com/LiuJiewenTT/snow_launcher_downloader">{{open_link}}</a></strong></dt>
+    <dt>尘白启动器下载器<a href="https://github.com/LiuJiewenTT/snow_launcher_downloader">{{open_link}}</a></dt>
     <dd>
       一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech"><em>JavaScript</em></span>
     </dd>

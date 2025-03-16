@@ -1,7 +1,16 @@
-details {
+details > *:not(summary){
     margin-left: 40px;
 }
 
-details summary {
-    margin-left: 0;
+/* details summary {
+    margin-left: -40px;
+} */
+
+summary::marker {
+    content: "⮞ ";
+    color: #ffcc00;
+}
+details[open] summary::marker {
+    content: "⮟ "; /* 修改展开时的符号 */
+    color: darkorange;
 }
