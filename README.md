@@ -50,10 +50,10 @@ This is the personal home page of LiuJiewenTT.
 
 
 <dl>
-  <details open><summary><dt style="display: inline-block;">尘白禁区工具集</dt></summary>
+  <dt style="display: inline-block;"><details open><summary>尘白禁区工具集</summary></dt>
   <dd>
     <dl>
-      <details open><summary><dt style="display: inline-block;">切服器</dt></summary>
+      <dt style="display: inline-block;"><details open><summary>切服器</summary></dt>
       <dd>
         <dl>
           <dt><strong>Snowbreak_ServerSwitcher<a href="https://github.com/LiuJiewenTT/Snowbreak_ServerSwitcher">{{open_link}}</a></strong></dt>
@@ -75,11 +75,11 @@ This is the personal home page of LiuJiewenTT.
         </dl>
       </dd>
       </details>
+      <dt>尘白启动器下载器<a href="https://github.com/LiuJiewenTT/snow_launcher_downloader">{{open_link}}</a></strong></dt>
+      <dd>
+        一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech"><em>JavaScript</em></span>
+      </dd>
     </dl>
-  </dd>
-  <dt>尘白启动器下载器<a href="https://github.com/LiuJiewenTT/snow_launcher_downloader">{{open_link}}</a></strong></dt>
-  <dd>
-    一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech"><em>JavaScript</em></span>
   </dd>
   </details>
 </dl>
