@@ -76,7 +76,27 @@ This is the personal home page of LiuJiewenTT.
     <dd>
       一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech"><em>JavaScript</em></span>
     </dd>
+    <dt>尘白H5游戏“猜拳卸甲”UI隐藏<strong>浏览器插件</strong><a href="https://github.com/LiuJiewenTT/CBJQ_CQXJ_HideUI">{{open_link}}</a></dt>
+    <dd>
+      一个用于隐藏《尘白禁区》H5游戏“猜拳卸甲”UI的浏览器插件，支持Chrome系和Firefox系浏览器。<span class="used_tech"><em>JavaScript</em>, <em>WebExtensions</em></span>
+    </dd>
   </dl>
+  <details open><summary>本地化开关管理工具</summary>
+    <dl>
+      <dt>CBJQ_XiaoKaiGuan<a href="https://github.com/LiuJiewenTT/CBJQ_XiaoKaiGuan">{{open_link}}</a></dt>
+      <dd>
+        针对PC端的本地化开关管理工具，可以方便地管理游戏的本地化开关状态。<span class="used_tech"><em>C</em>, <em>Win32 API</em></span>
+      </dd>
+      <dt>CBJQ_HugFenny-PC<a href="https://github.com/LiuJiewenTT/CBJQ_HugFenny-PC">{{open_link}}</a></dt>
+      <dd>
+        针对安卓端的本地化开关管理工具，运行于Windows PC平台，可以方便地管理安卓设备上多个游戏版本的本地化开关状态。<span class="used_tech"><em>C</em>, <em>Win32 API</em>, <em>TUI</em>, <em>ADB</em></span>
+      </dd>
+      <dt>CBJQ_HugFenny<a href="https://github.com/LiuJiewenTT/CBJQ_HugFenny">{{open_link}}</a></dt>
+      <dd>
+        针对安卓端的本地化开关管理工具，运行于安卓平台，可以方便地管理本地上多个游戏版本的本地化开关状态。由于调用Shizuku API ADB模式实现似乎有点问题，目前仅能读取开关状态，无法修改。<span class="used_tech"><em>Java</em>, <em>安卓应用开发</em>, <em>Shizuku</em>, <em>ADB</em></span>
+      </dd>
+    </dl>
+  </details>
 </details>
 
 

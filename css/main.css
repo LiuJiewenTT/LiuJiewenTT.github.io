@@ -16,3 +16,7 @@ details[open] summary::before {
     content: "⮟ "; /* 修改展开时的符号 */
     color: darkorange;
 }
+
+dt {
+    font-weight: inherit;
+}
