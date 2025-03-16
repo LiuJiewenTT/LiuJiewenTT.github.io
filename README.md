@@ -48,28 +48,41 @@ This is the personal home page of LiuJiewenTT.
 
 ### 游戏相关
 
-<details open><summary>尘白禁区工具集</summary>
 
-  <ul>
-    <li>
-      <details open><summary>切服器</summary>
-
-- **Snowbreak_ServerSwitcher[{{open_link}}](https://github.com/LiuJiewenTT/Snowbreak_ServerSwitcher)**
-: 用于切换不同渠道的启动器，以连接到不同的《尘白禁区》服务器(纯bat脚本实现)，支持在国服与国际服之间切换。<span class="used_tech">*batch*</span>
-- **CBJQ_SS_FrontEnd-tk[{{open_link}}](https://github.com/LiuJiewenTT/CBJQ_SS_FrontEnd-tk)**
-: 《尘白禁区》服务器切换器的前端程序（使用tkinter作为GUI库），支持个性化的配置多。<span class="used_tech">*Python*, *tkinter*</span>
-- CBJQ_SS StartWrapper[{{open_link}}](https://github.com/LiuJiewenTT/CBJQ_SS_StartWrapper)
-: 切服器的辅助启动程序，主要用于提权运行和引导`preference.json`的调用，附加观察启动器输出内容的功能。此程序已经成为切服器的重要组成部分。<span class="used_tech">*C*</span>
-- CBJQ_SS QuickStart[{{open_link}}](https://github.com/LiuJiewenTT/CBJQ_SS.QS)
-: **一键启动**程序，可以快速切服并启动对应的启动器。<span class="used_tech">*C*</span>
+<dl>
+  <details open><summary><dt style="display: inline-block;">尘白禁区工具集</dt></summary>
+  <dd>
+    <dl>
+      <details open><summary><dt style="display: inline-block;">切服器</dt></summary>
+      <dd>
+        <dl>
+          <dt><strong>Snowbreak_ServerSwitcher<a href="https://github.com/LiuJiewenTT/Snowbreak_ServerSwitcher">{{open_link}}</a></strong></dt>
+          <dd>
+            用于切换不同渠道的启动器，以连接到不同的《尘白禁区》服务器(纯bat脚本实现)，支持在国服与国际服之间切换。<span class="used_tech"><em>batch</em></span>
+          </dd>
+          <dt><strong>CBJQ_SS_FrontEnd-tk<a href="https://github.com/LiuJiewenTT/CBJQ_SS_FrontEnd-tk">{{open_link}}</a></strong></dt>
+          <dd>
+            《尘白禁区》服务器切换器的前端程序（使用tkinter作为GUI库），支持个性化的配置多。<span class="used_tech"><em>Python</em>, <em>tkinter</em></span>
+          </dd>
+          <dt><strong>CBJQ_SS StartWrapper<a href="https://github.com/LiuJiewenTT/CBJQ_SS_StartWrapper">{{open_link}}</a></strong></dt>
+          <dd>
+            切服器的辅助启动程序，主要用于提权运行和引导`preference.json`的调用，附加观察启动器输出内容的功能。此程序已经成为切服器的重要组成部分。<span class="used_tech"><em>C</em></span>
+          </dd>
+          <dt><strong>CBJQ_SS QuickStart<a href="https://github.com/LiuJiewenTT/CBJQ_SS.QS">{{open_link}}</a></strong></dt>
+          <dd>
+            <strong>一键启动</strong>程序，可以快速切服并启动对应的启动器。<span class="used_tech"><em>C</em></span>
+          </dd>
+        </dl>
+      </dd>
       </details>
-    </li>
-- 尘白启动器下载器[{{open_link}}](https://github.com/LiuJiewenTT/snow_launcher_downloader)
-: 一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech">*JavaScript*</span>
-
-  </ul>
-
-</details>
+    </dl>
+  </dd>
+  <dt>尘白启动器下载器<a href="https://github.com/LiuJiewenTT/snow_launcher_downloader">{{open_link}}</a></strong></dt>
+  <dd>
+    一个用于下载《尘白禁区》启动器的工具，支持自动检测最新版本并下载。<span class="used_tech"><em>JavaScript</em></span>
+  </dd>
+  </details>
+</dl>
 
 MCMDC[{{open_link}}](https://github.com/LiuJiewenTT/MCModDependencyCheck)
 : 使用此工具可以完成对《我的世界》Java版（Forge端）的模组依赖检查而无需启动游戏，全流程快速、高效、简便，已适配大部分情况。<span class="used_tech">*Python*</span>
