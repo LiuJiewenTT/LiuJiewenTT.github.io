@@ -6,11 +6,13 @@ details > *:not(summary){
     margin-left: -40px;
 } */
 
-summary ::marker {
+summary::marker,
+summary::before {
     content: "⮞ ";
     color: #ffcc00;
 }
-details[open] summary ::marker {
+details[open] summary::marker,
+details[open] summary::before {
     content: "⮟ "; /* 修改展开时的符号 */
     color: darkorange;
 }
