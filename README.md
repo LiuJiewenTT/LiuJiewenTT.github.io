@@ -141,21 +141,21 @@ This is the personal home page of LiuJiewenTT.
 
 <dl>
   <details open><summary>GCC项目初始化工具</summary>
-    在使用 <em>MinGW</em> 的 <em>GCC</em> 编写 <em>C</em> 或 <em>C++</em> 项目时，如果没有使用诸如 <em>Git Bash</em>, <em>mysys</em>, <em>WSL</em> 这样的技术，就没法好好使用<code>make</code>命令；此外，创建新项目时还需要设计目录结构并编写相应的<code>>makefile</code>文件过于繁琐。这对上述两个问题，我开发了以下三个项目，用以提高便利性和兼容性。
+    在使用<em>MinGW</em>的<em>GCC</em>编写<em>C</em>或<em>C++</em>项目时，如果没有使用诸如<em>Git Bash</em>, <em>mysys</em>, <em>WSL</em>这样的技术，就没法好好使用<code>make</code>命令；此外，创建新项目时还需要设计目录结构并编写相应的<code>>makefile</code>文件过于繁琐。这对上述两个问题，我开发了以下三个项目，用以提高便利性和兼容性。
     <dl>
-      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dt>WinEnv4MinGW-GCC<a href="https://github.com/LiuJiewenTT/WinEnv4MinGW-GCC">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地在Windows系统上构建GCC程序。这套程序提供<code>make</code>命令的链接，可直接使用<code>make</code>命令。<span class="used_tech"><em>batch</em></span>
       </dd>
       <!--  -->
-      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dt>WinGCCProjectStarter1<a href="https://github.com/LiuJiewenTT/WinGCCProjectStarter1">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地开始一个<em>C</em>语言项目，随时开始编译。<span class="used_tech"><em>batch</em></span>
       </dd>
       <!--  -->
-      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dt>WinGPPProjectStarter1<a href="https://github.com/LiuJiewenTT/WinGPPProjectStarter1">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地开始一个<em>C++</em>语言项目，随时开始编译。<span class="used_tech"><em>batch</em></span>
       </dd>
     </dl>
   </details>
