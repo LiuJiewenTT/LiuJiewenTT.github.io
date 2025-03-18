@@ -121,7 +121,7 @@ This is the personal home page of LiuJiewenTT.
   <!--  -->
   <dt><strong>VPet Mod Sync<a href="https://github.com/LiuJiewenTT/vpet_modsync">{{open_link}}</a></strong></dt>
   <dd>
-    这是一个为 <em>VPet Simulator (Published on Steam)</em>（虚拟桌宠模拟器）定制的模组同步用途的模组。它使用Junction以免除手动复制或移动的操作来使软件在离线时也一定能加载到模组。从创意工坊订阅的资源不会被移动，因此“同步”指在本地范围内进行同步，不影响创意工坊更新资源，也不会有额外操作的需求。自2023年9月8日发布以来，模组得到了很好的反响，<strorng>订阅率超96% (1134/1179)</strong> (数据截止至2023年9月14日)。<span class="used_tech"><em>batch</em></span>
+    这是一个为 <em>VPet Simulator (Published on Steam)</em>（虚拟桌宠模拟器）定制的模组同步用途的模组。它使用Junction以免除手动复制或移动的操作来使软件在离线时也一定能加载到模组。从创意工坊订阅的资源不会被移动，因此“同步”指在本地范围内进行同步，不影响创意工坊更新资源，也不会有额外操作的需求。自2023年9月8日发布以来，模组得到了很好的反响，<strong>订阅率超96% (1134/1179)</strong> (数据截止至2023年9月14日)。<span class="used_tech"><em>batch</em></span>
   </dd>
   <!--  -->
   <dt>L4D2_OfflineAssistant<a href="https://github.com/LiuJiewenTT/L4D2_OfflineAssistant">{{open_link}}</a></dt>
@@ -140,6 +140,26 @@ This is the personal home page of LiuJiewenTT.
 
 
 <dl>
+  <details open><summary>GCC项目初始化工具</summary>
+    在使用 <em>MinGW</em> 的 <em>GCC</em> 编写 <em>C</em> 或 <em>C++</em> 项目时，如果没有使用诸如 <em>Git Bash</em>, <em>mysys</em>, <em>WSL</em> 这样的技术，就没法好好使用<code>make</code>命令；此外，创建新项目时还需要设计目录结构并编写相应的<code>>makefile</code>文件过于繁琐。这对上述两个问题，我开发了以下三个项目，用以提高便利性和兼容性。
+    <dl>
+      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dd>
+        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+      </dd>
+      <!--  -->
+      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dd>
+        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+      </dd>
+      <!--  -->
+      <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
+      <dd>
+        使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
+      </dd>
+    </dl>
+  </details>
+  <!--  -->
   <dt>IconFold<a href="https://github.com/LiuJiewenTT/IconFold">{{open_link}}</a></dt>
   <dd>
     使用这套工具，可以方便地提取文件夹使用的自定义图标，也可以以不同的方式给文件夹应用或取消应用自定义图标。图标可以是你希望的任何有效的 <em>.ico</em> 文件。<span class="used_tech"><em>batch</em></span>
@@ -174,6 +194,6 @@ This is the personal home page of LiuJiewenTT.
 <dl>
   <dt>中秋博饼<a href="https://github.com/LiuJiewenTT/ee308fz_lab2">{{open_link}}</a></dt>
   <dd>
-    一个单机的多人博饼游戏，另加入了一点特殊设定（即彩蛋）。<span class="used_tech"><em>Java</em>, <em>Android APP</em></span>
+    一个单机的多人博饼游戏，另加入了一点特殊设定（彩蛋）。<span class="used_tech"><em>Java</em>, <em>Android APP</em></span>
   </dd>
 </dl>
