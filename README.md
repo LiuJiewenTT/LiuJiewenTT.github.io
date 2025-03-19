@@ -111,22 +111,22 @@ This is the personal home page of LiuJiewenTT.
 <dl>
   <dt>MCMDC<a href="https://github.com/LiuJiewenTT/MCModDependencyCheck">{{open_link}}</a></dt>
   <dd>
-    使用此工具可以完成对《我的世界》Java版（Forge端）的模组依赖检查而无需启动游戏，全流程快速、高效、简便，已适配大部分情况。<span class="used_tech"><em>Python</em></span>
+    使用此工具可以检查《我的世界》Java版（Forge端）的模组依赖，而无需启动游戏。<span class="used_tech"><em>Python</em></span>
   </dd>
   <!--  -->
   <dt>BirdMC<a href="https://github.com/LiuJiewenTT/BirdMC_original">{{open_link}}</a></dt>
   <dd>
-    专门用于裁剪图片的工具，主要应用于《我的世界》地图画制作。只要指定图片，就可以使用鼠标选择要批量裁剪出的块图，随后使用其他转换工具进行地图画的后续制作。<span class="used_tech"><em>Python</em></span>
+    专门裁剪图片的工具，用于《我的世界》地图画制作。先指定图片，然后使用鼠标选择要裁剪出的图块，就可以得到一系列固定大小 (128x128) 的图片。<span class="used_tech"><em>Python</em></span>
   </dd>
   <!--  -->
   <dt><strong>VPet Mod Sync<a href="https://github.com/LiuJiewenTT/vpet_modsync">{{open_link}}</a></strong></dt>
   <dd>
-    这是一个为 <em>VPet Simulator (Published on Steam)</em>（虚拟桌宠模拟器）定制的模组同步用途的模组。它使用Junction以免除手动复制或移动的操作来使软件在离线时也一定能加载到模组。从创意工坊订阅的资源不会被移动，因此“同步”指在本地范围内进行同步，不影响创意工坊更新资源，也不会有额外操作的需求。自2023年9月8日发布以来，模组得到了很好的反响，<strong>订阅率超96% (1134/1179)</strong> (数据截止至2023年9月14日)。<span class="used_tech"><em>batch</em></span>
+    这是一个为 <em>VPet Simulator（虚拟桌宠模拟器）</em> 定制的模组同步用途的模组。它使用 <em>Junction</em> 以免除手动复制或移动的操作来使软件在离线时也一定能加载到模组。从 <em>Steam创意工坊</em> 订阅的资源不会被移动，因此“同步”指在本地范围内进行同步，不影响创意工坊更新资源，也不需要额外的操作。自2023年9月8日发布以来，模组得到了很好的反响，<strong>订阅率超96% (1134/1179)</strong> (数据截止至2023年9月14日)。<span class="used_tech"><em>batch</em></span>
   </dd>
   <!--  -->
   <dt>L4D2_OfflineAssistant<a href="https://github.com/LiuJiewenTT/L4D2_OfflineAssistant">{{open_link}}</a></dt>
   <dd>
-    有时从Steam创意工坊下载的模组在启动时会被清除，这是由于网络问题导致未能获取到资源订阅列表。此外有一个副作用：如果你有大量的模组，那么你的硬盘将不得不遭受大量写数据的苦难，这会浪费时间、寿命和性能。为了避免此事，一个常见的作法是将下载到的模组移到上一层储存，但是这样除了是层级看着更加杂乱以及不好管理，还使得其在游戏内无法正确链接资源的描述等信息，而这有时会导致乱码和图片缺失，不利于游戏内管理（即启用或禁用）资源。为了取两者之长，我开发了这个工具，在启动游戏前确保它正在运行，或使用它进行游戏启动，可以保证上述问题不再出现，真是完美的解决方案！<span class="used_tech"><em>batch</em></span>
+    这是一个为 <em>Left 4 Dead 2</em> 游戏设计的模组离线加载助手。如果网络不佳，无法获取到资源订阅列表，从 <em>Steam创意工坊</em> 下载的模组在启动时会被游戏本体清除。这将导致本不必出现的漫长的重新下载过程和的硬盘寿命的损耗。一个常见的做法是将模组移到上一层储存，但是会使目录凌乱，还无法在游戏内查看附加的描述信息，不利于游戏内管理资源。为此，我开发了这个工具，在启动游戏前确保工具正在运行，或使用它启动游戏，可以避免上述两个问题。<span class="used_tech"><em>batch</em></span>
   </dd>
   <!--  -->
   <dt>MCVINE<a href="https://github.com/LiuJiewenTT/L4D2_OfflineAssistant">{{open_link}}</a></dt>
@@ -141,21 +141,21 @@ This is the personal home page of LiuJiewenTT.
 
 <dl>
   <details open><summary>GCC项目初始化工具</summary>
-    在使用<em>MinGW</em>的<em>GCC</em>编写<em>C</em>或<em>C++</em>项目时，如果没有使用诸如<em>Git Bash</em>, <em>mysys</em>, <em>WSL</em>这样的技术，就没法好好使用<code>make</code>命令；此外，创建新项目时还需要设计目录结构并编写相应的<code>>makefile</code>文件过于繁琐。这对上述两个问题，我开发了以下三个项目，用以提高便利性和兼容性。
+    <p>在使用 <em>MinGW</em> 的 <em>GCC</em> 编写 <em>C</em> 或 <em>C++</em> 项目时，如果没有使用诸如 <em>Git Bash</em>, <em>MSYS2</em>, <em>WSL</em> 这样的技术，就没法好好使用<code>make</code>命令；此外，创建新项目时还需要设计目录结构并编写相应的<code>makefile</code>文件过于繁琐。这对上述两个问题，我开发了以下三个项目，用以提高便利性和兼容性。</p>
     <dl>
       <dt>WinEnv4MinGW-GCC<a href="https://github.com/LiuJiewenTT/WinEnv4MinGW-GCC">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地在Windows系统上构建GCC程序。这套程序提供<code>make</code>命令的链接，可直接使用<code>make</code>命令。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地在 <em>Windows系统</em> 上构建 <em>GCC程序</em>。这套程序提供<code>make</code>命令的链接（支持重新链接），可直接使用<code>make</code>命令。<span class="used_tech"><em>batch</em></span>
       </dd>
       <!--  -->
       <dt>WinGCCProjectStarter1<a href="https://github.com/LiuJiewenTT/WinGCCProjectStarter1">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地开始一个<em>C</em>语言项目，随时开始编译。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地启动一个 <em>C</em> 语言项目，随时开始编译。<span class="used_tech"><em>batch</em>, <em>Makefile</em></span>
       </dd>
       <!--  -->
       <dt>WinGPPProjectStarter1<a href="https://github.com/LiuJiewenTT/WinGPPProjectStarter1">{{open_link}}</a></dt>
       <dd>
-        使用这套工具，可以方便地开始一个<em>C++</em>语言项目，随时开始编译。<span class="used_tech"><em>batch</em></span>
+        使用这套工具，可以方便地启动一个 <em>C++</em> 语言项目，随时开始编译。<span class="used_tech"><em>batch</em>, <em>Makefile</em></span>
       </dd>
     </dl>
   </details>
@@ -167,12 +167,12 @@ This is the personal home page of LiuJiewenTT.
   <!--  -->
   <dt>TraceOpenedFiles<a href="https://github.com/LiuJiewenTT/TraceOpenedFiles">{{open_link}}</a></dt>
   <dd>
-    使用此工具可以方便地监视一个程序使用的文件的情况。此工具拥有额外的特性，支持多种监视对象获取方式，支持从程序一启动就开始监视而无需手动传入信息。<span class="used_tech"><em>Python</em></span>
+    使用此工具可以方便地监视一个程序使用文件的情况。此工具支持多种监视对象获取方式，支持随程序启动开始监视，而无需手动传入信息。<span class="used_tech"><em>Python</em></span>
   </dd>
   <!--  -->
   <dt><strong>ThreadKiller<a href="https://github.com/TTStudio-of-TTPeter/ThreadKiller">{{open_link}}</a></strong></dt>
   <dd>
-    这是一套脚本组成的工具，专门用于监视并结束指定进程以达成拒绝运行的目的。（部分情况可能需要适当提权运行。）自编完整的安装、重置和卸载逻辑，完整且简便的设置/管理体验。<span class="used_tech"><em>batch</em></span>
+    这是一套脚本工具，用于监视并结束指定进程以达成禁止运行的目的（部分情况可能需要提权运行）。自编完整的安装、重置和卸载逻辑，完整且简便的设置体验。<span class="used_tech"><em>batch</em></span>
   </dd>
 </dl>
 
