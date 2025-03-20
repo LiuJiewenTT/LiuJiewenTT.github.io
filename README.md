@@ -1,6 +1,6 @@
 # Home
 
-<div style="align-items:center; justify-content:center;">
+<div style="display:flex; align-items:center; justify-content:center;">
   <img src="res/GH绘图1.png"/>
 </div>
 
