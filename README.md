@@ -7,11 +7,11 @@
 ![ghpvc](https://komarev.com/ghpvc/?username=LiuJiewenTT&label=Profile%20views%20since%202025-2-6)
 
 This is the personal home page of LiuJiewenTT.<br>
-这里是刘杰文的个人主页。（待更新）
+这里是刘杰文的个人主页。（持续更新中）
 
 <div style="display:flex; align-items:center; justify-content:center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LiuJiewenTT&count_private=true&include_all_commits=true" alt="LiuJiewenTT's GitHub stats" style="height:10em;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LiuJiewenTT&show_icons=true&count_private=true&include_all_commits=true" alt="LiuJiewenTT's GitHub stats" style="height:10em;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuJiewenTT&layout=compact&langs_count=8&size_weight=0.9&count_weight=0.1&exclude_repo=LiuJiewenTT.github.io,leap-day,WinPaletter,sportsmeeting,ee308fz_lab1,MyDoc_A" alt="Top Langs" style="height:10em;">
@@ -37,11 +37,11 @@ This is the personal home page of LiuJiewenTT.<br>
 详见：[详细技能](site_pages/详细技能.md).
 
 |    Tech.     |                            About                             |
-| :----------: | :----------------------------------------------------------: |
+| :----------: | :----------------------------------------------------------- |
 |    C/C++     | 非常熟悉。它是我当前工作使用的语言。这也是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。 |
-|    Python    | 非常熟悉。我的大部分个人项目都使用Python进行开发以节省开发时间和提高效率，常用于最小可行性验证。会从反汇编的字节码手动翻译出源码。我最喜欢这门语言，熟练度不低于C/C++，也更倾向于使用Python工作。 |
+|    Python    | 非常熟悉。我的大部分个人项目都使用Python进行开发以节省开发时间和提高效率，常用于最小可行性验证。会从字节码反汇编后的伪汇编代码手动翻译出源码（反编译）。我最喜欢这门语言，熟练度不低于C/C++，也更倾向于使用Python工作。 |
 |    Batch     | 此处指Windows CMD批处理脚本。很熟悉，能良好运用，我有不少项目使用纯Bat开发。它极其便利，非常适合简单的目标。 |
-|           JS            |                熟悉，有若干次使用JS进行浏览器插件开发的经历。                |
+|  JavaScript  |                熟悉，有若干次 *Firefox*/*Chromium* 浏览器插件开发的经历。                |
 |    Linux     | 熟悉，有较长的使用经历，能在Linux上进行开发、编译、调试等工作。个人接触最多的是CentOS7和Ubuntu。 |
 | 安卓应用开发  | 熟悉。开发过几个个人应用，例如：中秋博饼APP，HugFenny。 |
 
@@ -55,7 +55,7 @@ This is the personal home page of LiuJiewenTT.<br>
 > - 以下项目不限状态，可能是已完成或是开发中。
 > - 项目可能符合多个类别，但仅分组在最合适的类别中（优先以主题聚合，平台和技术分类次之）。
 
-> （2025备忘：内容有待更新）
+> 内容持续更新中
 
 ### 游戏相关
 
@@ -208,10 +208,14 @@ This is the personal home page of LiuJiewenTT.<br>
 </dl>
 
 
-### 其他项目
+### General Projects
 
 
 <dl>
+  <dt><strong>leap-day-2<a href="https://github.com/LiuJiewenTT/leap-day-2">{{open_link}}</a></strong></dt>
+  <dd>
+    这是一个定制版 <em>jekyll-theme-leap-day</em> 主题，同样可以用于 <em>Github Pages</em>。相比原版，我特别适配了高分屏和缩放后呈现的比例，并提供了包括下载控制在内的一些适用于纯文档页的基本个性化配置（如果需要更丰富的纯文档库版本，可以参考我的 <em>leap-day<a href="https://github.com/LiuJiewenTT/leap-day">{{open_link}}</a></em>）。<span class="used_tech"><em>HTML</em>, <em>JavaScript</em>, <em>SCSS</em>, <em>Liquid</em>, <em>Jekyll</em></span>
+  </dd>
   <dt>MergePDF<a href="https://github.com/LiuJiewenTT/MergePDF">{{open_link}}</a></dt>
   <dd>
     这是一个专注于PDF合并的简单程序。它实际上是对相关处理库的简单应用，只是有一个更适合命令行的交互界面(UI)，并额外提供一些操作选项和优化操作的可能。<span class="used_tech"><em>Python</em>, <em>PyInstaller</em></span>
