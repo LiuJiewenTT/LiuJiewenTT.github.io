@@ -1,10 +1,13 @@
 # Home
 
-This is the personal home page of LiuJiewenTT.
-
-这里是刘杰文的个人主页。（待更新）
+<div style="align-items:center; justify-content:center;">
+  <img src="res/GH绘图1.png"/>
+</div>
 
 ![ghpvc](https://komarev.com/ghpvc/?username=LiuJiewenTT&label=Profile%20views%20since%202025-2-6)
+
+This is the personal home page of LiuJiewenTT.<br>
+这里是刘杰文的个人主页。（待更新）
 
 <div style="display:flex; align-items:center; justify-content:center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,6 +23,9 @@ This is the personal home page of LiuJiewenTT.
 
 {% include general.liquid %}
 
+<p id="move_to_html_banner">如果您见到此行文字，请您移步至<a href="https://liujiewentt.github.io/">对应的网页</a>查看更加完整的呈现结果。</p>
+
+<hr>
 
 ## 前言 {#preface}
 
@@ -33,10 +39,11 @@ This is the personal home page of LiuJiewenTT.
 |    Tech.     |                            About                             |
 | :----------: | :----------------------------------------------------------: |
 |    C/C++     | 非常熟悉。它是我当前工作使用的语言。这也是我最早开始接触的语言，也是中学时代参与竞赛(NOIP)并获奖时使用的语言。 |
-|    Python    | 非常熟悉。我的大部分个人项目都使用Python进行开发，这极大地节省了开发时间，提高了效率，非常适合做最小可行性验证。我最喜欢这门语言，熟练度不低于C/C++，也更倾向于使用Python工作。 |
+|    Python    | 非常熟悉。我的大部分个人项目都使用Python进行开发以节省开发时间和提高效率，常用于最小可行性验证。会从反汇编的字节码手动翻译出源码。我最喜欢这门语言，熟练度不低于C/C++，也更倾向于使用Python工作。 |
 |    Batch     | 此处指Windows CMD批处理脚本。很熟悉，能良好运用，我有不少项目使用纯Bat开发。它极其便利，非常适合简单的目标。 |
+|           JS            |                熟悉，有若干次使用JS进行浏览器插件开发的经历。                |
 |    Linux     | 熟悉，有较长的使用经历，能在Linux上进行开发、编译、调试等工作。个人接触最多的是CentOS7和Ubuntu。 |
-| 安卓应用开发  | 熟悉。开发过几个个人应用，例如：中秋博饼APP。 |
+| 安卓应用开发  | 熟悉。开发过几个个人应用，例如：中秋博饼APP，HugFenny。 |
 
 ---
 

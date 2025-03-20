@@ -2,6 +2,10 @@ body{
     --color-border-default: #d0d7de;
 }
 
+#move_to_html_banner {
+	display: none;
+}
+
 .used_tech {
 	border: 1px solid transparent;
 	border-radius: 2em;
