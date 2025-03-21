@@ -20,6 +20,7 @@ This is the personal home page of LiuJiewenTT.<br>
 
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/special_classes.css">
+<script src="js/main.js"></script>
 
 {% include general.liquid %}
 
@@ -153,6 +154,14 @@ This is the personal home page of LiuJiewenTT.<br>
   <dd>
     曾经的私有工具，供小伙伴更好地游玩网易版《我的世界》（PC、Java Edition）。它最初名为 <em><a href="https://github.com/LiuJiewenTT/mcmod">mcmod</a></em>，只能添加自选模组。在进一步发展的过程中，为了避免混淆，改名为此，并逐渐加入了添加任意资源的能力。随着本人离开了网易版《我的世界》，也不再关注后续更新，此项目终止发展。<span class="used_tech"><em>batch</em></span>
   </dd>
+  <!--  -->
+  <dt>CreatePlus Crack<a href="https://www.curseforge.com/minecraft/mc-mods/create-x-createplus-1-18-forge-0-5-1-0-5-1a">{{open_link}}</a></dt>
+  <dd>
+    一个修改字节码的《我的世界》Java版（Forge端）的机械动力模组的附属模组 <em>Create Plus（现名 Create Goggles）</em>版本。原模组在特定版本组合上不兼容，在等待了作者仍然没有动静后自行使用 <em>010 Editor</em> 修改了<code>.class</code>文件中的引用。<span class="used_tech"><em>Java</em></span>
+    <div class="project_badges">
+      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads: fetch data failed."/>
+    </div>
+  </dd>
 </dl>
 
 
@@ -190,7 +199,7 @@ This is the personal home page of LiuJiewenTT.<br>
     使用此工具可以方便地监视一个程序使用文件的情况。此工具支持多种监视对象获取方式，支持随程序启动开始监视，而无需手动传入信息。<span class="used_tech"><em>Python</em>, <em>PyInstaller</em></span>
   </dd>
   <!--  -->
-  <dt><strong>ThreadKiller<a href="https://github.com/TTStudio-of-TTPeter/ThreadKiller">{{open_link}}</a></strong></dt>
+  <dt>ThreadKiller<a href="https://github.com/TTStudio-of-TTPeter/ThreadKiller">{{open_link}}</a></dt>
   <dd>
     这是一套脚本工具，用于监视并结束指定进程以达成禁止运行的目的（部分情况可能需要提权运行）。自编完整的安装、重置和卸载逻辑，完整且简便的设置体验。<span class="used_tech"><em>batch</em></span>
   </dd>
