@@ -1,5 +1,5 @@
 
-async function fetchCurseforgeProjectDownloads(url) {
+export async function fetchCurseforgeProjectDownloads(url) {
     try {
         const response = await fetch(url);
         const html = await response.text();

@@ -20,7 +20,7 @@ This is the personal home page of LiuJiewenTT.<br>
 
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/special_classes.css">
-<script src="js/main.js"></script>
+<script src="js/main.js" type="module"></script>
 
 {% include general.liquid %}
 
