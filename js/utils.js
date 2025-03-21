@@ -3,7 +3,7 @@ let proxy = 'https://api.allorigins.win/get?url=';
 
 export async function fetchCurseforgeProjectDownloads(url) {
     try {
-        const html = await fetch(`${proxy}${url}`).then(response => response.json()).then(data => data.contents);
+        const html = await fetch(`${proxy}${encodeURIComponent(url)}`).then(response => response.json()).then(data => data.contents);
 
         // 将 HTML 转换为 DOM 解析
         const parser = new DOMParser();
