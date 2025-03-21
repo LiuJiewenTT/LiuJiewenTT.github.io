@@ -1,4 +1,4 @@
-proxy = 'https://api.allorigins.win/get?url=';
+let proxy = 'https://api.allorigins.win/get?url=';
 
 
 export async function fetchCurseforgeProjectDownloads(url) {
