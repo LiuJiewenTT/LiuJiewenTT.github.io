@@ -20,7 +20,6 @@ This is the personal home page of LiuJiewenTT.<br>
 
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/special_classes.css">
-<script src="js/main.js" type="module"></script>
 
 {% include general.liquid %}
 
@@ -157,9 +156,9 @@ This is the personal home page of LiuJiewenTT.<br>
   <!--  -->
   <dt>CreatePlus Crack<a href="https://www.curseforge.com/minecraft/mc-mods/create-x-createplus-1-18-forge-0-5-1-0-5-1a">{{open_link}}</a></dt>
   <dd>
-    一个修改字节码的《我的世界》Java版（Forge端）的机械动力模组的附属模组 <em>Create Plus（现名 Create Goggles）</em>版本。原模组在特定版本组合上不兼容，在等待了作者仍然没有动静后自行使用 <em>010 Editor</em> 修改了<code>.class</code>文件中的引用。<span class="used_tech"><em>Java</em></span>
+    一个修改字节码的《我的世界》Java版（Forge端）的机械动力模组的附属模组 <em>Create Plus（现名 Create Goggles）</em>版本。原模组在特定版本组合上不兼容，在等待了作者很久仍然没有动静后自行修改了<code>.class</code>文件中的引用。<span class="used_tech"><em>Java</em></span>
     <div class="project_badges">
-      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads: fetch data failed."/>
+      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads" src="https://img.shields.io/badge/Curseforge%20Downloads-5019-orange" title="据截止至2025年3月24日"/>
     </div>
   </dd>
 </dl>
