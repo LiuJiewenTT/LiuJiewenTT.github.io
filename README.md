@@ -20,7 +20,8 @@ This is the personal home page of LiuJiewenTT.<br>
 
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/special_classes.css">
-<script src="js/main.js">
+<script src="js/main.js"></script>
+<script>
   document.addEventListener("DOMContentLoaded", async () => {
     await set_open_link_cls_inst_open_in_new_tab();
     console.log("已设置所有符合条件的open_link实例链接在新标签页打开。");
