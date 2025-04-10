@@ -29,7 +29,7 @@ This is the personal home page of LiuJiewenTT.<br>
 
 ## 前言 {#preface}
 
-距离我加入这里的那天已经过去7年了，在这些年里，我的开发水平不断提升着。我无法分出足够的时间和精力去用更新、更好的思路优化老项目，所以我总是尝试将其应用在我最新的项目中。这也使得，如果顺着一个个项目的创建时间看，看到的就是我的大半个技术水平进步的过程。
+距离我加入这里的那天已有7年了，在这些年里，我的开发水平不断提升着。我无法分出足够的时间和精力去用更新、更好的思路优化老项目，所以我总是尝试将其应用在我最新的项目中。这也使得，如果顺着一个个项目的创建时间看，看到的就是我的大半个技术水平进步的过程。
 
 
 ## 技能 {#skills}
@@ -81,7 +81,7 @@ This is the personal home page of LiuJiewenTT.<br>
         </div>
       </dd>
       <!--  -->
-      <dt><strong>CBJQ_SS StartWrapper<a href="https://github.com/LiuJiewenTT/CBJQ_SS_StartWrapper">{{open_link}}</a></strong></dt>
+      <dt><strong>CBJQ_SS StartWrapper<a href="https://github.com/LiuJiewenTT/CBJQ_SS.StartWrapper">{{open_link}}</a></strong></dt>
       <dd>
         切服器的辅助启动程序，主要用于提权运行和引导<code>preference.json</code>的调用，附加观察启动器输出内容的功能。此程序已经成为切服器的重要组成部分。<span class="used_tech"><em>C</em></span>
       </dd>
@@ -102,6 +102,11 @@ This is the personal home page of LiuJiewenTT.<br>
     <dd>
       一个用于隐藏《尘白禁区》H5游戏“猜拳卸甲”UI的浏览器插件，支持Chrome系和Firefox系浏览器。<span class="used_tech"><em>JavaScript</em>, <em>WebExtensions</em></span>
     </dd>
+    <!--  -->
+    <dt>尘白VR启动工具<a href="https://github.com/LiuJiewenTT/CBJQ_Mainland_VR_Start">{{open_link}}</a></dt>
+    <dd>
+      一个用于以VR模式加载《尘白禁区》的UEVR插件注入工具，支持国服。<span class="used_tech"><em>C++</em>, <em>Win32 API</em></span>
+    </dd>
   </dl>
   <details open><summary>本地化开关管理工具</summary>
     <dl>
@@ -112,7 +117,7 @@ This is the personal home page of LiuJiewenTT.<br>
       <!--  -->
       <dt>CBJQ_HugFenny-PC<a href="https://github.com/LiuJiewenTT/CBJQ_HugFenny-PC">{{open_link}}</a></dt>
       <dd>
-        针对安卓端的本地化开关管理工具，运行于Windows PC平台，可以方便地管理安卓设备上多个游戏版本的本地化开关状态。<span class="used_tech"><em>C</em>, <em>Win32 API</em>, <em>TUI</em>, <em>ADB</em></span>
+        针对安卓端的本地化开关管理工具，运行于Windows PC平台，可以方便地管理安卓设备上多个游戏版本的本地化开关状态。<span class="used_tech"><em>C++</em>, <em>Win32 API</em>, <em>TUI</em>, <em>ADB</em></span>
       </dd>
       <!--  -->
       <dt>CBJQ_HugFenny<a href="https://github.com/LiuJiewenTT/CBJQ_HugFenny">{{open_link}}</a></dt>
@@ -158,7 +163,7 @@ This is the personal home page of LiuJiewenTT.<br>
   <dd>
     一个修改字节码的《我的世界》Java版（Forge端）的机械动力模组的附属模组 <em>Create Plus（现名 Create Goggles）</em>版本。原模组在特定版本组合上不兼容，在等待了作者很久仍然没有动静后自行修改了<code>.class</code>文件中的引用。<span class="used_tech"><em>Java</em></span>
     <div class="project_badges">
-      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads" src="https://img.shields.io/badge/Curseforge%20Downloads-5019-orange" title="据截止至2025年3月24日"/>
+      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads" src="https://img.shields.io/badge/Curseforge%20Downloads-5078-orange" title="据截止至2025年4月10日"/>
     </div>
   </dd>
 </dl>
