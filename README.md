@@ -170,7 +170,7 @@ This is the personal home page of LiuJiewenTT.<br>
   <dd>
     一个修改字节码的《我的世界》Java版（Forge端）的机械动力模组的附属模组 <em>Create Plus（现名 Create Goggles）</em>版本。原模组在特定版本组合上不兼容，在等待了作者很久仍然没有动静后自行修改了<code>.class</code>文件中的引用。<span class="used_tech"><em>Java</em></span>
     <div class="project_badges">
-      <img id="CreatePlus_Downloads" alt="CreatePlus Downloads" src="https://img.shields.io/badge/Curseforge%20Downloads-5078-orange" title="据截止至2025年4月10日"/>
+      <img id="CreatePlus_Downloads" alt="CreatePlus downloads, 100+ times per month." src="https://cf.way2muchnoise.eu/full_886763_downloads.svg" />
     </div>
   </dd>
 </dl>
