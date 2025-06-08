@@ -129,7 +129,7 @@ This is the personal home page of LiuJiewenTT.<br>
       <!--  -->
       <dt>CBJQ_HugFenny<a href="https://github.com/LiuJiewenTT/CBJQ_HugFenny">{{open_link}}</a></dt>
       <dd>
-        针对安卓端的本地化开关管理工具，运行于安卓平台，可以方便地管理本地上多个游戏版本的本地化开关状态。由于调用Shizuku API ADB模式实现似乎有点问题，目前仅能读取开关状态，无法修改。<span class="used_tech"><em>Java</em>, <em>Android APP</em>, <em>Shizuku</em>, <em>ADB</em></span>
+        针对安卓端的本地化开关管理工具，运行于安卓平台，可以方便地管理本地上多个游戏版本的本地化开关状态。<span class="used_tech"><em>Java</em>, <em>Android APP</em>, <em>Shizuku</em>, <em>ADB</em></span>
       </dd>
     </dl>
   </details>
